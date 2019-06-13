@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="/socket.io-client/dist/socket.io.js"></script>
+  <title>Web API</title>
+</head>
+
+<body>
+
+  <!-- <a name="Share a note" href="http://localhost:3000/api/v1/notes/emit"></a>
+  <a name="See shared notes" href="http://localhost:3000/api/v1/notes/listen"></a> -->
+
+  
+  
+  <div id="userdata">
+    Share note for note ID: <input type="text" id="noteID" />
+    Share note for users: <input type="text" id="listUserID" />
+    <button id="shareNote">Share a Note</button> 
+
+    <br/>
+
+    Get note for user ID: <input type="text" id="userID" />
+    <button id="getNote">Get Note</button> 
+  </div>
+
+  <div id="message">
+  </div>
+
+  <div id="message2">
+  </div>
+
+  <div id="data">
+  </div>
+
+  <script type="text/javascript">
+    const socket = io();
+
+    $("#getNote").on('click', (event) => {
+      const userID = $("#userID").val();
+      if(userID) {
+        socket.emit('getNote', userID);
+      }
+    });
+
+    $('#shareNote').on('click', (event) => {
+      //shareNotewithUsers(event, socket);
+
+      let listUserIDs = $("#listUserID").val();
+
+      let listUserID = listUserIDs.split(',');
+
+      let data = {
+        noteId: $("#noteID").val(),
+        userId: listUserID
+      }
+      // console.log('share note');
+      socket.emit('shareNote', data);
+    });
+
+    socket.on('message', (message) => {
+      document.getElementById('message').innerHTML = message;
+    });
+
+    socket.on('message2', (message) => {
+      //console.log('message2 : ' + message)
+      const newMessage = `<div> ${message} </div>`;
+      document.getElementById('message2').innerHTML += newMessage;
+    });
+
+    socket.on('getNote', (data) => {
+      //console.log('on getnote');
+      document.getElementById('data').innerHTML = data;
+    });
+
+
+  </script>
+</body>
+
+</html>

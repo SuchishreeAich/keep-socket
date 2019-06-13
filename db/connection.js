@@ -4,7 +4,7 @@ const logger = require('../logger');
 
 // create mongo connection
 function createMongoConnection() {
-  mongoose.connect(process.env.MONGO_URL || dbConfig.mongoUrl, {useNewUrlParser: true });
+  return mongoose.connect(process.env.MONGO_URL || dbConfig.mongoUrl, {useNewUrlParser: true });
 }
 
 // get mongo connection object

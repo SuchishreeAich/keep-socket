@@ -5,7 +5,6 @@ const api = require('./api/v1');
 const { serverConfig } = require('./config').appConfig;
 const db = require('./db');
 
-
 //Event listener for HTTP server "error" event.
 const onError = (error) => {
   if (error.syscall !== 'listen') {

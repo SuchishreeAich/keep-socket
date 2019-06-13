@@ -6,3 +6,440 @@
 [2019-02-07T16:15:31.144] [INFO] default - Server running at http://127.0.0.1:3000/
 [2019-02-15T12:49:42.309] [INFO] default - Server running at http://127.0.0.1:3000/
 [2019-02-15T12:50:57.448] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-06T18:47:30.925] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-06T18:47:35.246] [INFO] default - Connected to mongo database
+[2019-03-06T18:49:26.808] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-06T18:49:27.846] [INFO] default - Connected to mongo database
+[2019-03-06T18:49:48.158] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-06T18:49:49.198] [INFO] default - Connected to mongo database
+[2019-03-07T14:40:15.504] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:40:18.275] [INFO] default - Connected to mongo database
+[2019-03-07T14:41:47.211] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:41:48.274] [INFO] default - Connected to mongo database
+[2019-03-07T14:42:14.559] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:42:15.591] [INFO] default - Connected to mongo database
+[2019-03-07T14:42:48.450] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:42:49.523] [INFO] default - Connected to mongo database
+[2019-03-07T14:43:09.641] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:43:10.678] [INFO] default - Connected to mongo database
+[2019-03-07T14:44:08.683] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:44:09.719] [INFO] default - Connected to mongo database
+[2019-03-07T14:44:45.240] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:44:46.273] [INFO] default - Connected to mongo database
+[2019-03-07T14:45:31.835] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:45:32.866] [INFO] default - Connected to mongo database
+[2019-03-07T14:46:16.562] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:46:17.670] [INFO] default - Connected to mongo database
+[2019-03-07T14:46:24.748] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:46:25.771] [INFO] default - Connected to mongo database
+[2019-03-07T14:46:47.289] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:46:48.331] [INFO] default - Connected to mongo database
+[2019-03-07T14:47:08.330] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:47:09.361] [INFO] default - Connected to mongo database
+[2019-03-07T14:55:16.843] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:55:17.883] [INFO] default - Connected to mongo database
+[2019-03-07T14:56:19.929] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:56:20.953] [INFO] default - Connected to mongo database
+[2019-03-07T14:57:12.793] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:57:13.827] [INFO] default - Connected to mongo database
+[2019-03-07T14:57:24.175] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:57:25.206] [INFO] default - Connected to mongo database
+[2019-03-07T14:57:53.242] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:57:54.261] [INFO] default - Connected to mongo database
+[2019-03-07T14:58:05.012] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T14:58:06.032] [INFO] default - Connected to mongo database
+[2019-03-07T15:00:58.027] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T15:00:59.107] [INFO] default - Connected to mongo database
+[2019-03-07T15:02:19.083] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T15:02:20.134] [INFO] default - Connected to mongo database
+[2019-03-07T15:06:56.173] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T15:06:57.210] [INFO] default - Connected to mongo database
+[2019-03-07T15:07:43.388] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T15:07:44.418] [INFO] default - Connected to mongo database
+[2019-03-07T15:08:17.689] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T15:08:18.731] [INFO] default - Connected to mongo database
+[2019-03-07T15:09:48.382] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T15:09:49.424] [INFO] default - Connected to mongo database
+[2019-03-07T15:10:36.889] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-07T15:10:37.916] [INFO] default - Connected to mongo database
+[2019-03-10T12:27:11.750] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-10T12:27:12.109] [INFO] default - Connected to mongo database
+[2019-03-10T12:38:10.200] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-10T12:38:10.423] [INFO] default - Connected to mongo database
+[2019-03-10T12:38:25.894] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-03-10T12:38:25.942] [INFO] default - Connected to mongo database
+[2019-04-01T15:07:03.828] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-01T15:07:05.851] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (C:\Users\404110\Desktop\StackRoute\Assignments\Node-JS\keep_socket\node_modules\mongodb-core\lib\topologies\server.js:564:11)
+    at Pool.emit (events.js:189:13)
+    at Connection.<anonymous> (C:\Users\404110\Desktop\StackRoute\Assignments\Node-JS\keep_socket\node_modules\mongodb-core\lib\connection\pool.js:317:12)
+    at Object.onceWrapper (events.js:277:13)
+    at Connection.emit (events.js:189:13)
+    at Socket.<anonymous> (C:\Users\404110\Desktop\StackRoute\Assignments\Node-JS\keep_socket\node_modules\mongodb-core\lib\connection\connection.js:246:50)
+    at Object.onceWrapper (events.js:277:13)
+    at Socket.emit (events.js:189:13)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-04-01T15:17:10.118] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-01T15:17:11.202] [INFO] default - Connected to mongo database
+[2019-04-08T10:59:35.779] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-08T10:59:36.814] [INFO] default - Connected to mongo database
+[2019-04-29T16:13:57.314] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:13:59.343] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (C:\Users\404110\Desktop\StackRoute\Assignments\Node-JS\keep_socket\node_modules\mongodb-core\lib\topologies\server.js:564:11)
+    at Pool.emit (events.js:189:13)
+    at Connection.<anonymous> (C:\Users\404110\Desktop\StackRoute\Assignments\Node-JS\keep_socket\node_modules\mongodb-core\lib\connection\pool.js:317:12)
+    at Object.onceWrapper (events.js:277:13)
+    at Connection.emit (events.js:189:13)
+    at Socket.<anonymous> (C:\Users\404110\Desktop\StackRoute\Assignments\Node-JS\keep_socket\node_modules\mongodb-core\lib\connection\connection.js:246:50)
+    at Object.onceWrapper (events.js:277:13)
+    at Socket.emit (events.js:189:13)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-04-29T16:15:28.285] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:15:32.224] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:15:34.231] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (C:\Users\404110\Desktop\StackRoute\Assignments\Node-JS\keep_socket\node_modules\mongodb-core\lib\topologies\server.js:564:11)
+    at Pool.emit (events.js:189:13)
+    at Connection.<anonymous> (C:\Users\404110\Desktop\StackRoute\Assignments\Node-JS\keep_socket\node_modules\mongodb-core\lib\connection\pool.js:317:12)
+    at Object.onceWrapper (events.js:277:13)
+    at Connection.emit (events.js:189:13)
+    at Socket.<anonymous> (C:\Users\404110\Desktop\StackRoute\Assignments\Node-JS\keep_socket\node_modules\mongodb-core\lib\connection\connection.js:246:50)
+    at Object.onceWrapper (events.js:277:13)
+    at Socket.emit (events.js:189:13)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:50:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-04-29T16:16:43.111] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:16:44.123] [INFO] default - Connected to mongo database
+[2019-04-29T16:17:26.084] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:17:27.100] [INFO] default - Connected to mongo database
+[2019-04-29T16:19:41.046] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:19:42.085] [INFO] default - Connected to mongo database
+[2019-04-29T16:19:45.269] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:19:46.309] [INFO] default - Connected to mongo database
+[2019-04-29T16:20:50.393] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:20:51.415] [INFO] default - Connected to mongo database
+[2019-04-29T16:20:57.355] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:20:58.379] [INFO] default - Connected to mongo database
+[2019-04-29T16:28:08.944] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:28:09.973] [INFO] default - Connected to mongo database
+[2019-04-29T16:28:29.201] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:28:30.223] [INFO] default - Connected to mongo database
+[2019-04-29T16:29:18.114] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:29:19.140] [INFO] default - Connected to mongo database
+[2019-04-29T16:29:23.916] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:29:25.004] [INFO] default - Connected to mongo database
+[2019-04-29T16:30:16.931] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:30:18.009] [INFO] default - Connected to mongo database
+[2019-04-29T16:30:48.733] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:30:49.762] [INFO] default - Connected to mongo database
+[2019-04-29T16:31:52.918] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:31:53.958] [INFO] default - Connected to mongo database
+[2019-04-29T16:32:08.747] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:32:09.765] [INFO] default - Connected to mongo database
+[2019-04-29T16:33:01.470] [INFO] default - Server running at http://127.0.0.1:3000/
+[2019-04-29T16:33:02.498] [INFO] default - Connected to mongo database
+[2019-04-29T16:53:43.058] [INFO] default - Connected to mongo database
+[2019-04-29T16:55:38.600] [INFO] default - Connected to mongo database
+[2019-04-29T17:00:20.067] [INFO] default - Connected to mongo database
+[2019-06-13T12:17:08.120] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T12:17:08.123] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T12:22:28.500] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T12:22:28.503] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T12:25:40.828] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T12:25:40.831] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T12:31:48.323] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T12:31:48.326] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T12:33:42.881] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T12:33:42.886] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T12:38:30.674] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T12:38:30.678] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T12:40:03.480] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T12:40:03.483] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T14:23:24.301] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T14:23:24.304] [ERROR] default - Error in database connection... { MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/topologies/server.js:564:11)
+    at emitOne (events.js:116:13)
+    at Pool.emit (events.js:211:7)
+    at Connection.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/pool.js:317:12)
+    at Object.onceWrapper (events.js:317:30)
+    at emitTwo (events.js:126:13)
+    at Connection.emit (events.js:214:7)
+    at Socket.<anonymous> (/home/ubuntu/FSE_435584/NODE/Assignment_KeepNotes_Websocket/keep_socket-master/node_modules/mongodb-core/lib/connection/connection.js:246:50)
+    at Object.onceWrapper (events.js:315:30)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  name: 'MongoNetworkError',
+  errorLabels: [ 'TransientTransactionError' ],
+  [Symbol(mongoErrorContextSymbol)]: {} }
+[2019-06-13T15:09:29.369] [INFO] default - Connected to mongo database

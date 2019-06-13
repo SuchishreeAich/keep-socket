@@ -15,16 +15,14 @@ const authConfig = {
 // Logger configuration
 const loggerConfig = {
   appenders: {
-    console: {
-      type: 'console'
-    },
+    
     keepLogs: {
       type: 'file',
       filename: './server/logs/keep.log'
     }
   },
   categories: {
-    default: { appenders: ['console', 'keepLogs'], level: 'trace' }
+    default: { appenders: ['keepLogs'], level: 'trace' }
   }
 };
 
